@@ -55,59 +55,53 @@ societal benefit.
 4) Data analytics in Cloud
 
 5) Case Studies related to cloud computing such
-as :
+   as :
 
-i. Auto scaling in cloud using prediction for
-workload forecasting
+  i. Auto scaling in cloud using prediction for workload forecasting
 
-ii. Post Pandemic Global supply chain
+  ii. Post Pandemic Global supply chain
 
-iii. Virtual Hospitals on Cloud
+  iii. Virtual Hospitals on Cloud
 
-iv. Cloud based Ambulance Service for
-emergency
+  iv. Cloud based Ambulance Service for emergency
 
-6) Naming and Addressing in IoT: Advertising,
-Searching, and Discovery
+ 6) Naming and Addressing in IoT: Advertising,Searching, and Discovery
 
-7) Service Orchestration and Routing
+ 7) Service Orchestration and Routing
 
-8) Research Issues in IoT
+ 8) Research Issues in IoT
 
-9) Sensor devices and big data
+ 9) Sensor devices and big data
 
-10) Sensors Data Management, IoT Mining and
-Analytics
+ 10) Sensors Data Management, IoT Mining and Analytics
 
-11) IoT Security and Trust
+ 11) IoT Security and Trust
 
-12) Edge Computing
+ 12) Edge Computing
 
-13) Fog Computing
+ 13) Fog Computing
 
-14) Case Studies related to IoT such as:
+ 14) Case Studies related to IoT such as:
 
-i.Smart Grid and energy management
+  i.Smart Grid and energy management
 
-ii. e-farming
+  ii. e-farming
 
-iii. e-Health, Assisted Living and e-Wellness
+  iii. e-Health, Assisted Living and e-Wellness
 
-iv. Online shopping and robot delivery
+  iv. Online shopping and robot delivery
 
-v. Autonomous disinfection
+  v. Autonomous disinfection
 
-vi. Healthcare services fogs
+  vi. Healthcare services fogs
 
-15) Natural Language processing and
-computational linguistic
+15) Natural Language processing and computational linguistic
 
 16) Deep Learning: A critical appraisal
 
 17) Convolution Neural Network
 
-18) Recent advancements in Recurrent Neural
-Networks
+18) Recent advancements in Recurrent Neural Networks
 
 19) Big Data Analytics Techniques
 
@@ -119,29 +113,27 @@ Networks
 
 23) AR/VR Technology
 
-24) Healthcare Ecosystem and impact of
-technology on healthcare
+24) Healthcare Ecosystem and impact of technology on healthcare
 
-25) Case studies related to Data science, Machine
-Learning and Deep learning such as:
+25) Case studies related to Data science, Machine Learning and Deep learning such as:
 
-I. Navigation Systems
+  I. Navigation Systems
 
-II. Monitoring and Control
+  II. Monitoring and Control
 
-III. Sentimental Analysis
+  III. Sentimental Analysis
 
-IV. Remote health monitoring
+  IV. Remote health monitoring
 
-V. Virtual doctor’s visit
+  V. Virtual doctor’s visit
 
-VI. Online patient engagement tools
+  VI. Online patient engagement tools
 
-VII. Remote diagnostic solutions
+  VII. Remote diagnostic solutions
 
-VIII. Shared streaming services
+  VIII. Shared streaming services
 
-IX. Distributed e-learning for disables
+  IX. Distributed e-learning for disables
 
 
 ## Submission Guidelines:
@@ -210,5 +202,5 @@ Contents of the proposed chapter**
   Email:indu.bhagat@gmail.com
 
 ## Submission Link:
-[Click here](https://www.easychair.org/cfp/CNM-CRCPress-2020)
+[Click here](https://easychair.org/account/signin?l=NLa9dwxPTKTNLQdxzLzzyt#)
 
