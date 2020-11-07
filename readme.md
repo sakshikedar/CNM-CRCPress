@@ -169,7 +169,7 @@ affiliation, email address
 Contents of the proposed chapter**
 
 ## Book Editors:
-1. Dr.Latesh Malik
+1. Dr.Latesh Malik,
   Associate Professor, 
   Dept of Computer Sci & Engineering,
   Govt. college of Engineering,
@@ -179,7 +179,7 @@ Contents of the proposed chapter**
   
   Email:latesh.gagan@gmail.com
   
-2. Dr. Sandhya Arora
+2. Dr. Sandhya Arora,
   Professor, 
   Dept of Comp Engg,
   Cummins College of Engineering for Women, 
@@ -189,7 +189,7 @@ Contents of the proposed chapter**
   
   Email:sandhya.arora02@gmail.com
 
-3. Dr.Urmila Shrawankar
+3. Dr.Urmila Shrawankar,
   Professor, 
   Dept of Computer Sci & Engineering, G.H.Raisoni College of Engineering,
   Nagpur, Maharashtra
@@ -198,7 +198,7 @@ Contents of the proposed chapter**
   
   Email:urmillaa@gmail.com
 
-4. Dr. Maya Ingle
+4. Dr. Maya Ingle,
   Professor, 
   School of Computer Science and Information Technology, 
   DAVV, Indore
@@ -207,7 +207,7 @@ Contents of the proposed chapter**
   
   Email:mayaingle22@gmail.com
 
-5. Dr.Indu Bhagat
+5. Dr.Indu Bhagat,
   Principal Member of Technical Staff, 
   Oracle Canada
   
