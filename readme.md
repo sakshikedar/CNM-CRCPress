@@ -3,12 +3,12 @@
 **Computing Technologies and Applications : Paving Path Towards Society 5.0** will be published by **CRC Press**, Taylor & Francis Group, USA
 
 ## Important Dates
-Abstract submission Deadline: 25 December 2020
-Abstract Acceptance: 30 December 2020
-Full Chapter submission: 31 January 2021
-Review Notification: 28 Feburary 2021
-Revised version Submission: 10 March 2021
-Final Decision Notification: 15 March 2021
+-Abstract submission Deadline: 25 December 2020
+-Abstract Acceptance: 30 December 2020
+-Full Chapter submission: 31 January 2021
+-Review Notification: 28 Feburary 2021
+-Revised version Submission: 10 March 2021
+-Final Decision Notification: 15 March 2021
 
 
 ## Scope of the book
