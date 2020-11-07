@@ -47,57 +47,97 @@ societal benefit.
 
 ## Topics include, but are not limited to, the following:
 1) Cloud Infrastructure
+
 2) Cloud Management and operations
+
 3) Cloud security
+
 4) Data analytics in Cloud
+
 5) Case Studies related to cloud computing such
 as :
 i. Auto scaling in cloud using prediction for
 workload forecasting
+
 ii. Post Pandemic Global supply chain
+
 iii. Virtual Hospitals on Cloud
+
 iv. Cloud based Ambulance Service for
 emergency
+
 6) Naming and Addressing in IoT: Advertising,
 Searching, and Discovery
+
 7) Service Orchestration and Routing
+
 8) Research Issues in IoT
+
 9) Sensor devices and big data
+
 10) Sensors Data Management, IoT Mining and
 Analytics
+
 11) IoT Security and Trust
+
 12) Edge Computing
+
 13) Fog Computing
+
 14) Case Studies related to IoT such as:
 i.Smart Grid and energy management
+
 ii. e-farming
+
 iii. e-Health, Assisted Living and e-Wellness
+
 iv. Online shopping and robot delivery
+
 v. Autonomous disinfection
+
 vi. Healthcare services fogs
+
 15) Natural Language processing and
 computational linguistic
+
 16) Deep Learning: A critical appraisal
+
 17) Convolution Neural Network
+
 18) Recent advancements in Recurrent Neural
 Networks
+
 19) Big Data Analytics Techniques
+
 20) Challenges in Big data analytics
+
 21) Business Intelligence for Analytics
+
 22) Virtual Technologies forremote work
+
 23) AR/VR Technology
+
 24) Healthcare Ecosystem and impact of
 technology on healthcare
+
 25) Case studies related to Data science, Machine
 Learning and Deep learning such as:
 I. Navigation Systems
+
 II. Monitoring and Control
+
 III. Sentimental Analysis
+
 IV. Remote health monitoring
+
 V. Virtual doctor’s visit
+
 VI. Online patient engagement tools
+
 VII. Remote diagnostic solutions
+
 VIII. Shared streaming services
+
 IX. Distributed e-learning for disables
 
 
@@ -135,41 +175,36 @@ Contents of the proposed chapter**
 
 ## Book Editors:
 1. Dr.Latesh Malik
-Associate Professor, Dept of
-Computer Sci & Engineering,
-Govt. college of Engineering,
-Nagpur, Maharashtra
-Phone:+91 9923343121
-Email:latesh.gagan@gmail.com
+  Associate Professor, 
+  Dept of Computer Sci & Engineering,
+  Govt. college of Engineering,
+  Nagpur, Maharashtra
+  Phone:+91 9923343121
+  Email:latesh.gagan@gmail.com
 2. Dr. Sandhya Arora
-Professor, Dept of Comp Engg,
-Cummins College of
-Engineering for Women, Pune,
-Maharashtra
-Phone: +91 9860322850
-Email:
-sandhya.arora02@gmail.com
+  Professor, 
+  Dept of Comp Engg,
+  Cummins College of Engineering for Women, 
+  Pune, Maharashtra
+  Phone: +91 9860322850
+  Email:sandhya.arora02@gmail.com
 3. Dr.Urmila Shrawankar
-Professor, Dept of Computer
-Sci & Engineering, G.H.
-Raisoni College of Engineering,
-Nagpur, Maharashtra
-Phone: +91 9422803996
-Email:urmillaa@gmail.com
+  Professor, 
+  Dept of Computer Sci & Engineering, G.H.Raisoni College of Engineering,
+  Nagpur, Maharashtra
+  Phone: +91 9422803996
+  Email:urmillaa@gmail.com
 4. Dr. Maya Ingle
-Professor, School of Computer
-Science and Information
-Technology, DAVV, Indore
-Phone: +91 9893278823
-Email:
-mayaingle22@gmail.com
+  Professor, 
+  School of Computer Science and Information Technology, 
+  DAVV, Indore
+  Phone: +91 9893278823
+  Email:mayaingle22@gmail.com
 5. Dr.Indu Bhagat
-Principal Member of
-Technical Staff, Oracle
-Canada
-Phone:+1 (604) 619-3640
-Email:
-indu.bhagat@gmail.com
+  Principal Member of Technical Staff, 
+  Oracle Canada
+  Phone:+1 (604) 619-3640
+  Email:indu.bhagat@gmail.com
 
 ## Submission Link:
 [Click here](https://www.easychair.org/cfp/CNM-CRCPress-2020)
