@@ -174,6 +174,7 @@ Contents of the proposed chapter**
   Dept of Computer Sci & Engineering,
   Govt. college of Engineering,
   Nagpur, Maharashtra
+  
   Phone:+91 9923343121
   
   Email:latesh.gagan@gmail.com
@@ -183,6 +184,7 @@ Contents of the proposed chapter**
   Dept of Comp Engg,
   Cummins College of Engineering for Women, 
   Pune, Maharashtra
+  
   Phone: +91 9860322850
   
   Email:sandhya.arora02@gmail.com
@@ -191,6 +193,7 @@ Contents of the proposed chapter**
   Professor, 
   Dept of Computer Sci & Engineering, G.H.Raisoni College of Engineering,
   Nagpur, Maharashtra
+  
   Phone: +91 9422803996
   
   Email:urmillaa@gmail.com
@@ -199,6 +202,7 @@ Contents of the proposed chapter**
   Professor, 
   School of Computer Science and Information Technology, 
   DAVV, Indore
+  
   Phone: +91 9893278823
   
   Email:mayaingle22@gmail.com
@@ -206,6 +210,7 @@ Contents of the proposed chapter**
 5. Dr.Indu Bhagat
   Principal Member of Technical Staff, 
   Oracle Canada
+  
   Phone:+1 (604) 619-3640
 
   Email:indu.bhagat@gmail.com
