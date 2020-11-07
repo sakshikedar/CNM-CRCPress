@@ -56,6 +56,7 @@ societal benefit.
 
 5) Case Studies related to cloud computing such
 as :
+
 i. Auto scaling in cloud using prediction for
 workload forecasting
 
@@ -85,6 +86,7 @@ Analytics
 13) Fog Computing
 
 14) Case Studies related to IoT such as:
+
 i.Smart Grid and energy management
 
 ii. e-farming
@@ -122,6 +124,7 @@ technology on healthcare
 
 25) Case studies related to Data science, Machine
 Learning and Deep learning such as:
+
 I. Navigation Systems
 
 II. Monitoring and Control
