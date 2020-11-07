@@ -125,6 +125,7 @@ be intimated to the authors. A book chapter can have
 upto 30 pages (250 words per page or upto 7500 words
 total, double spaced). Abstract and Chapters written
 should be plagarised free.
+
 **Please provide the following points in your
 abstract/proposals:
 Title of the contribution
