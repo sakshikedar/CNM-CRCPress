@@ -2,7 +2,7 @@
 
 **Computing Technologies and Applications : Paving Path Towards Society 5.0** will be published by **CRC Press**, Taylor & Francis Group, USA
 
-## Important Dates
+## Important Dates:
 ◾Abstract submission Deadline: 25 December 2020
 
 ◾Abstract Acceptance: 30 December 2020
@@ -16,7 +16,7 @@
 ◾Final Decision Notification: 15 March 2021
 
 
-## Scope of the book
+## Scope of the book:
 It is considered that technology is enabling
 people so that they could access to advances and
 could avail benefits of technology in day to day
@@ -101,7 +101,7 @@ VIII. Shared streaming services
 IX. Distributed e-learning for disables
 
 
-## Submission Guidelines
+## Submission Guidelines:
 Authors are requested to submit an abstract of the
 proposed chapter initially. The abstract should primarily
 focus on clear, concise and summary of the chapter
@@ -133,7 +133,7 @@ Name of author, co-authors, institutional
 affiliation, email address
 Contents of the proposed chapter**
 
-## Book Editors
+## Book Editors:
 1. Dr.Latesh Malik
 Associate Professor, Dept of
 Computer Sci & Engineering,
