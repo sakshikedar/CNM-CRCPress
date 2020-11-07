@@ -1,7 +1,6 @@
 # Call for Book Chapters
 
-**Computing Technologies and Applications : Paving Path Towards Society 5.0
-** will be published by **CRC Press**, Taylor & Francis Group, USA
+**Computing Technologies and Applications : Paving Path Towards Society 5.0** will be published by **CRC Press**, Taylor & Francis Group, USA
 
 ## Important Dates
 Abstract submission Deadline: 25 December 2020
